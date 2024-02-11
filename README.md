@@ -1,7 +1,7 @@
 # 27C513_EMU
 This project creates an emulator PCB to allow 27C512 to be used in place of the hard-to-find 27C513.
 
-PCB layout is in Circuit Studio (of the Altium family).  Zip files for the project directory and Gerber outputs, PDFs for schem.
+PCB layout is in Circuit Studio (of the Altium family).  Zip files are provided for the Source files and Gerber outputs, PDF for schem, and two spreadsheet formats for the BOM.
 
 This project was inspired by the need to support EPROMs for the ACC RC-850 repeater controllers but applies to any design that needs a 27C513 EPROM.
 
